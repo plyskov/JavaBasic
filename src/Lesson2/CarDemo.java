@@ -27,6 +27,11 @@ public class CarDemo {
         car2.beep();
         car2.go();
 
+        CarModificator carmodificator = new CarModificator();
+        System.out.println(car2.model);
+        carmodificator.modificatorCarName(car2);
+        System.out.println(car2.model);
+
     }
 
 }
