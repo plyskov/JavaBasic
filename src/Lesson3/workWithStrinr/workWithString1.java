@@ -52,6 +52,8 @@ public class workWithString1 {
 
         // самостоятельно: как заменить один символ на другой.
         // ТУТ должно быть решение
+        String replacedString = text.replace("sam", "rrr");
+        System.out.println("Replaced string: " + replacedString);
 
     }
 }
