@@ -55,5 +55,9 @@ public class workWithString1 {
         String replacedString = text.replace("sam", "rrr");
         System.out.println("Replaced string: " + replacedString);
 
+        String line1 = "Я люблю людей";
+        String line2 = new String("Я люблю людей");
+        boolean equals = (line1 == line2); // True or false???
+
     }
 }
