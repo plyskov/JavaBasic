@@ -1,4 +1,4 @@
-package lesson6.lessoncode.staticType;
+package lesson6.staticType;
 
 public class MathematicsUtil {
 

@@ -1,6 +1,4 @@
-package lesson6.lessoncode.conditionsOperators;
-
-import lesson6.lessoncode.staticType.SimpleCalcultor;
+package lesson6.conditionsOperators;
 
 import java.util.Scanner;
 

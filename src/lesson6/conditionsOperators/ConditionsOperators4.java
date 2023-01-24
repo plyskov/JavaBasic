@@ -1,4 +1,4 @@
-package lesson6.lessoncode.conditionsOperators;
+package lesson6.conditionsOperators;
 
 import java.util.Scanner;
 

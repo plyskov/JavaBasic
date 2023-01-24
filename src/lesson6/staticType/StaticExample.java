@@ -1,6 +1,4 @@
-package lesson6.lessoncode.staticType;
-
-import lesson6.lessoncode.staticType.MathematicsUtil;
+package lesson6.staticType;
 
 public class StaticExample {
 

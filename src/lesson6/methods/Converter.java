@@ -1,4 +1,4 @@
-package lesson6.lessoncode.methods;
+package lesson6.methods;
 
 public class Converter {
 
